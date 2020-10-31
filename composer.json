@@ -1,0 +1,7 @@
+{
+    "require": {
+        "botman/botman": "^2.6",
+        "vlucas/phpdotenv": "^5.2",
+        "botman/driver-facebook": "^1.11"
+    }
+}
